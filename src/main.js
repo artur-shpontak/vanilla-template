@@ -1,1 +1,5 @@
-//TODO add scripts
+'use-strict';
+
+/* TODO add scripts */
+
+console.log('hello');
